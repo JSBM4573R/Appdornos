@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda/app/src/main/res/layout/activity_contacto.xml" value="0.22" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda/app/src/main/res/layout/activity_productos.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda/app/src/main/res/layout/activity_servicios.xml" value="0.18" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda/app/src/main/res/mipmap-anydpi-v26/ic_icon_adorno.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda2/app/src/main/res/layout/activity_contacto.xml" value="0.209375" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda2/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda2/app/src/main/res/layout/activity_maps.xml" value="0.209375" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda2/app/src/main/res/layout/activity_producto_actividad.xml" value="0.209375" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda2/app/src/main/res/layout/activity_productos.xml" value="0.209375" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda2/app/src/main/res/layout/activity_registro_usuario.xml" value="0.1" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda2/app/src/main/res/layout/activity_servicios.xml" value="0.1" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda2/app/src/main/res/layout/item_imagen.xml" value="0.33" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda2/app/src/main/res/menu/menuprincipal.xml" value="0.209375" />
+        <entry key="..\:/Users/Familia ByR/AndroidStudioProjects/AdornosTienda2/app/src/main/res/menu/menuproductos.xml" value="0.209375" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/drawable/boton_redondo.xml" value="0.25" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_catalogo.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_contacto.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_detalle_producto.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_favorito.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_gestionar_productos.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_main.xml" value="0.35625" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_maps.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_principal.xml" value="0.25" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_producto_actividad.xml" value="0.35625" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_productos.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_productos_favoritos.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_servicios.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_sucursal.xml" value="0.35625" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_sucursales.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/activity_sucursales_main.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/layout/item_sucursal.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Grupo6/app/src/main/res/menu/menuprincipal.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/VV17/AndroidStudioProjects/AdornosTienda-master/app/src/main/res/drawable/figura1.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/VV17/AndroidStudioProjects/AdornosTienda-master/app/src/main/res/drawable/ic_person.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/VV17/AndroidStudioProjects/AdornosTienda-master/app/src/main/res/drawable/rounded_button.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/VV17/AndroidStudioProjects/AdornosTienda-master/app/src/main/res/layout/activity_main.xml" value="0.23233695652173914" />
+        <entry key="..\:/Users/VV17/AndroidStudioProjects/AdornosTienda-master/app/src/main/res/layout/activity_producto_actividad.xml" value="0.18" />
+        <entry key="..\:/Users/VV17/AndroidStudioProjects/AdornosTienda-master/app/src/main/res/layout/activity_productos.xml" value="0.16" />
+        <entry key="..\:/Users/VV17/AndroidStudioProjects/AdornosTienda-master/app/src/main/res/layout/activity_registro_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/VV17/AndroidStudioProjects/AdornosTienda-master/app/src/main/res/layout/activity_servicios.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/VV17/AndroidStudioProjects/AdornosTienda-master/app/src/main/res/menu/menuprincipal.xml" value="0.1" />
+        <entry key="..\:/Users/VV17/AndroidStudioProjects/AdornosTienda-master/app/src/main/res/menu/menuproductos.xml" value="1.832142857142857" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_catalogo.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_contacto.xml" value="0.25905797101449274" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_detalle_producto.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_favorito.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_gestionar_productos.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_main.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_principal.xml" value="0.1" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_producto_actividad.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_productos.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_productos_favoritos.xml" value="0.25905797101449274" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_registro_usuario.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_servicios.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/activity_sucursales.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/item_imagen.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/item_producto.xml" value="0.25905797101449274" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/layout/item_sucursal.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/menu/menuprincipal.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/VV17/Documents/GitHub/AdornosTienda2.git/app/src/main/res/menu/menuproductos.xml" value="0.14270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

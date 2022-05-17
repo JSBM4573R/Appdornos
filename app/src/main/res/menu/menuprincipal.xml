@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opcGestionarProductos"
+        android:title="Administrar Productos" />
+    <item
+        android:id="@+id/opcComprarProductos"
+        android:title="Comprar Productos" />
+    <item
+        android:id="@+id/opcCatalogo"
+        android:title="Catalogo" />
+    <item
+        android:id="@+id/opcFavoritos"
+        android:title="Favoritos" />
+    <item
+        android:id="@+id/opcSucursales"
+        android:title="Sucursales" />
+    <item
+        android:id="@+id/opcServicios"
+        android:title="Servicios" />
+    <item
+        android:id="@+id/opcContacto"
+        android:title="Contacto" />
+    <item
+        android:id="@+id/opcRegUser"
+        android:title="Registro Usuario" />
+</menu>

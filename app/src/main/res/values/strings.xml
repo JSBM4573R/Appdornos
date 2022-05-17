@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AdornosTienda</string>
+    <string name="actionBar_Title">AppDornos</string>
+    <string name="actionBar_Subtitle">Materializamos ideas de diseño</string>
+    <string name="msg_espere">Esepere un momento</string>
+    <string name="msg_pessBtn">Presionó un botón</string>
+    <string name="regresar">regresar</string>
+    <string name="ingresarProd">Ingresa a Productos...</string>
+    <string name="ingresarContact">Ingresa a Contactos...</string>
+    <string name="ingresarServ">Ingresa a Servicios...</string>
+    <string name="ingresarUser">Ingresa a Registrar Usuario...</string>
+    <string name="ingresarOnresume">Ingresa a onResume()</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

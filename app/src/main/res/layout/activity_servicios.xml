@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Servicios">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <!--
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            tools:srcCompat="@drawable/adorno1" />
+        -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="70dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginEnd="10dp">
+
+            <ImageView
+                android:id="@+id/imgServicioBisuteria"
+                android:layout_width="1dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:layout_marginStart="-10dp"
+                android:src="@drawable/servicio_bisuteria" />
+
+            <LinearLayout
+                android:layout_width="1dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtServicioBisuteria"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:text="Servicio de bisuteria. " />
+                    //Puede solicitarlo para sus trabajos especiales Esto iría en +info
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnServicioBisuteria"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/boton_redondo"
+                android:text="Info" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginEnd="10dp">
+
+            <ImageView
+                android:id="@+id/imgServicioArbol"
+                android:layout_width="1dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:layout_marginStart="-10dp"
+                android:src="@drawable/servicio_arbol" />
+
+            <LinearLayout
+                android:layout_width="1dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtServicioArbol"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5sp"
+                    android:text="Decoración de árboles de navidad" />
+                    //En +info podemos poner opciones de decoracion, solo luces, luces y adornos, luces y cintas
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnServicioArbol"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/boton_redondo"
+                android:text="Info" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginEnd="10dp">
+
+            <ImageView
+                android:id="@+id/imgServicioFiestas"
+                android:layout_width="1dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:layout_marginStart="-10dp"
+                android:src="@drawable/servicio_decorafiestas" />
+
+            <LinearLayout
+                android:layout_width="1dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtServicioFiestas"
+                    android:layout_width="136dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:text="Decoración de fiestas" />
+                    //En +info podemos poner opciones Halloween, Navidad, Cumpleaños, Despedidas
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnServicioFiestas"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/boton_redondo"
+                android:text="Info" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginEnd="10dp">
+
+            <ImageView
+                android:id="@+id/imgServicioQuince"
+                android:layout_width="1dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:layout_marginStart="-10dp"
+                android:src="@drawable/servicio_decoraquince" />
+
+            <LinearLayout
+                android:layout_width="1dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtServicioQuince"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginTop="5dp"
+                    android:text="Decoración fiesta 15 años" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnServicioQuince"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/boton_redondo"
+                android:text="Info" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
